@@ -1,1 +1,5 @@
 movienv/
+*.pkl
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
